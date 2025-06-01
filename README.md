@@ -88,3 +88,5 @@ If someone claims they made this first, just check the file timestamps. 📁⏳
 Want to improve the portal?  
 Add AES encryption? A GUI? Versioning?  
 Feel free to fork, PR, or file an issue. `.datx` is a format for builders.
+---
+This .datx format is a JSON-based modular encrypted file format general-purpose data storage. It is not related to the DSPCon .DATX binary telemetry format.
